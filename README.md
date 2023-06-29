@@ -7,7 +7,7 @@ The related work for denoising and debiase in drug discovery
 + [End-to-end sequence-structure-function meta-learning predicts genome-wide chemical-protein interactions for dark proteins](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1010851)
 + [A Unified View on Graph Neural Networks as Graph Signal Denoising](https://openreview.net/forum?id=MD3D5UbTcb1)
 
-## Bias
+## Debias
 + [Target Unbiased Meta-Learning for Graph Classification](https://www.researchgate.net/publication/351108548_Target_Unbiased_Meta-Learning_for_Graph_Classification)
 + [Meta Learning for Low-Resource Molecular Optimization](http://biomed.nscc-gz.cn/papers/2021/meta-mo.pdf)
 + [Interpretable meta-learning of multi-omics data for survival analysis and pathway enrichment](https://academic.oup.com/bioinformatics/article/39/4/btad113/7067742?login=false)
@@ -15,3 +15,6 @@ The related work for denoising and debiase in drug discovery
 + [Few-Shot Graph Learning for Molecular Property Prediction](https://arxiv.org/pdf/2102.07916.pdf)
 + [From Biased Data to Unbiased Models: a Meta-Learning Approach](https://openreview.net/forum?id=35jJIcBiEyj)
 + [MOG: Molecular Out-of-distribution Generation with Energy-based Models](https://openreview.net/forum?id=qkTEaJ9orc1)
+
+## Denoising
++ [Deep Denoising of Raw Biomedical Knowledge Graph From COVID-19 Literature, LitCovid, and Pubtator: Framework Development and Validation](https://pubmed.ncbi.nlm.nih.gov/35658098/) *J Med Internet Res*
